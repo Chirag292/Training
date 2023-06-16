@@ -2,3 +2,6 @@
 git add .
 git commit -m "daily comment"
 git push origin master
+
+% pwd
+% git clone (path of git repository)
